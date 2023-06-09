@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/deqiB89JVVJA0RDFH+Z6+VkO3FKa9xyE+CDeMk0Yw8u87ihTCO3A47ZnR4QaBuYTOss2nN4T+w62qtR6zw5Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\udeole\\Downloads\\PenaltyCal_7\\PenaltyCal_7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\udeole\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\udeole\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\udeole\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\udeole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
